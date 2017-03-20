@@ -49,12 +49,18 @@ Bulma uses [autoprefixer](https://github.com/postcss/autoprefixer) to make (most
 * Opera
 * Safari
 
+## Documentation
+
+The documentation resides in the [docs](docs) directory, and is built with the Ruby-based [Jekyll](https://jekyllrb.com/) tool.
+
+Browse the [online documentation here.](http://bulma.io/documentation/overview/start/)
+
 ## Related projects
 
 * Bulma with Attribute Modules: https://github.com/j5bot/bulma-attribute-selectors
 * Bulma with Rails: https://github.com/joshuajansen/bulma-rails
 * iTemplate: [http://itemplate.ga/](http://itemplate.ga/dashboard.html)
-* Vue Admin powered by Bulma: https://github.com/fundon/vue-admin
+* Vue Admin powered by Bulma: https://github.com/vue-bulma/vue-admin
 
 ## Copyright and license
 
